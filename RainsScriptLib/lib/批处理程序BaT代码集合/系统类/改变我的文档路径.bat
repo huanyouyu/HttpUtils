@@ -1,1 +1,0 @@
-reg add "HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Explorer\User Shell Folders" /v Personal /t reg_expand_sz /d "d:\My Documents" /f

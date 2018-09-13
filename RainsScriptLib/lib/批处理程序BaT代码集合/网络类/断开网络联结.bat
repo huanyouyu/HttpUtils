@@ -1,2 +1,0 @@
- rasphone -h adsl 
- 

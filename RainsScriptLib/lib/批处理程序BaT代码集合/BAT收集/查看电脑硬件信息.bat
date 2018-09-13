@@ -1,1 +1,0 @@
-start C:\WINDOWS\PCHealth\HelpCtr\System\sysinfo\sysComponentInfo.htm
