@@ -10,3 +10,5 @@ if not exist "D:\A\!file2!" del /f/q "!file!"
 echo 正在复制E盘B文件夹缺少的文件或文件夹
 xcopy /t /e /y D:\A E:\B >nul 2>nul
 pause
+
+#joyfish 20180913
